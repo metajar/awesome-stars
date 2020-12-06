@@ -19,6 +19,14 @@
 - [arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 ## Go 
 
+- [errors](https://github.com/cockroachdb/errors) - Go error library with error portability over the network
+- [leaf](https://github.com/vrongmeal/leaf) - General purpose reloader for all projects.
+- [modgv](https://github.com/lucasepe/modgv) - Converts 'go mod graph' output into Graphviz's DOT language
+- [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
+- [jitterbug](https://github.com/lthibault/jitterbug) - Tickers with random jitter
+- [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - A flexible and powerful SQL string builder library plus a zero-config ORM.
+- [aws-lambda-go-api-proxy](https://github.com/awslabs/aws-lambda-go-api-proxy) - lambda-go-api-proxy makes it easy to port APIs written with Go frameworks such as Gin (https://gin-gonic.github.io/gin/ ) to AWS Lambda and Amazon API Gateway.
+- [gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
 - [codgen-zap-middleware](https://github.com/metajar/codgen-zap-middleware) - Middleware Wrapper for Zap and Go Swagger
 - [ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [cloudquery](https://github.com/cloudquery/cloudquery) - cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security.
