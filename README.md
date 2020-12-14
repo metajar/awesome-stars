@@ -103,6 +103,7 @@
 - [python-script-examples](https://github.com/hoelsner/python-script-examples) - This repository contains my python (3) script examples that focus on use cases for Network Engineers.
 ## Others 
 
+- [gamesense-sdk](https://github.com/SteelSeries/gamesense-sdk) - 
 - [tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 ## Python 
