@@ -20,7 +20,7 @@
 ## Go 
 
 - [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [ecsview](https://github.com/swartzrock/ecsview) - 
+- [ecsview](https://github.com/swartzrock/ecsview) - Browse your AWS ECS Clusters in the Terminal
 - [integration-tests-example](https://github.com/george-e-shaw-iv/integration-tests-example) - An example project showcasing how Ardan Labs writes integration tests
 - [errors](https://github.com/cockroachdb/errors) - Go error library with error portability over the network
 - [leaf](https://github.com/vrongmeal/leaf) - General purpose reloader for all projects.
