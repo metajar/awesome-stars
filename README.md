@@ -19,6 +19,7 @@
 - [arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 ## Go 
 
+- [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 - [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [ecsview](https://github.com/swartzrock/ecsview) - Browse your AWS ECS Clusters in the Terminal
 - [integration-tests-example](https://github.com/george-e-shaw-iv/integration-tests-example) - An example project showcasing how Ardan Labs writes integration tests
