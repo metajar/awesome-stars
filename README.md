@@ -33,7 +33,7 @@
 - [gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
 - [codgen-zap-middleware](https://github.com/metajar/codgen-zap-middleware) - Middleware Wrapper for Zap and Go Swagger
 - [ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
-- [cloudquery](https://github.com/cloudquery/cloudquery) - cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security.
+- [cloudquery](https://github.com/cloudquery/cloudquery) - cloudquery transforms your cloud infrastructure into queryable SQL or Neo4j tables for easy monitoring, governance and security.
 - [go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [cache](https://github.com/akyoto/cache) - :handbag: Cache arbitrary data with an expiration time.
 - [memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
