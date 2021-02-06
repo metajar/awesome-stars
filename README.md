@@ -19,6 +19,7 @@
 - [arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 ## Go 
 
+- [notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
@@ -128,6 +129,7 @@
 - [video_transcoding](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
 ## Shell 
 
+- [yangsuite](https://github.com/CiscoDevNet/yangsuite) - 
 - [elastiflow](https://github.com/robcowart/elastiflow) - Network flow analytics (Netflow, sFlow and IPFIX) with the Elastic Stack
 - [winbox-mac](https://github.com/nrlquaker/winbox-mac) - MikroTik Winbox bundled into macOS app with Wine
 ## TypeScript 
