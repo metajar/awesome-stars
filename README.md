@@ -51,7 +51,7 @@
 - [feedback](https://github.com/metajar/feedback) - 
 - [snmpbot](https://github.com/qmsk/snmpbot) - Golang SNMP library + SNMP REST API
 - [grammes](https://github.com/northwesternmutual/grammes) - A Go package built to communicate with Apache TinkerPop™ Graph computing framework using Gremlin; a graph traversal language used by graph databases such as JanusGraph®, MS Cosmos DB, AWS Neptune, and DataStax® Enterprise Graph.
-- [ent](https://github.com/facebook/ent) - An entity framework for Go
+- [ent](https://github.com/ent/ent) - An entity framework for Go
 - [GhostDB](https://github.com/jakekgrog/GhostDB) - GhostDB is a distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.
 - [events-to-graph](https://github.com/elaletovic/events-to-graph) - A showcase of converting events to useful graph data
 - [fastcache](https://github.com/VictoriaMetrics/fastcache) - Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
