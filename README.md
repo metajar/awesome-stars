@@ -19,6 +19,7 @@
 - [arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 ## Go 
 
+- [litestream](https://github.com/benbjohnson/litestream) - Streaming S3 replication for SQLite.
 - [notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
@@ -102,6 +103,7 @@
 - [restheart](https://github.com/SoftInstigate/restheart) - RESTHeart - The REST API for MongoDB
 ## JavaScript 
 
+- [auto-remediate](https://github.com/cloudconformity/auto-remediate) - Cloud Conformity Auto Remediate
 - [statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [inet-henge](https://github.com/codeout/inet-henge) - Generate d3.js based Network Diagram from JSON data.
