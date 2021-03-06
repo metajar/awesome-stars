@@ -19,6 +19,7 @@
 - [arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 ## Go 
 
+- [lungo](https://github.com/256dpi/lungo) - A MongoDB compatible embeddable database and toolkit for Go.
 - [survey](https://github.com/AlecAivazis/survey) - A golang library for building interactive prompts with full support for windows and posix terminals.
 - [litestream](https://github.com/benbjohnson/litestream) - Streaming S3 replication for SQLite.
 - [notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
