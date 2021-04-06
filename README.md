@@ -13,6 +13,7 @@
   - [Ruby](#ruby)
   - [Shell](#shell)
   - [TypeScript](#typescript)
+  - [Vue](#vue)
 
 ## C++ 
 
@@ -142,6 +143,9 @@
 ## TypeScript 
 
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+## Vue 
+
+- [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vite - Vue 2 starter template using composition-api and windiCSS
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
