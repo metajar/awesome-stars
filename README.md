@@ -139,6 +139,7 @@
 - [winbox-mac](https://github.com/nrlquaker/winbox-mac) - MikroTik Winbox bundled into macOS app with Wine
 ## TypeScript 
 
+- [vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite Starter Template
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 ## Vue 
 
