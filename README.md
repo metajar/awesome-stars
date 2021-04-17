@@ -16,6 +16,7 @@
 
 ## Go 
 
+- [proxmox-api-go](https://github.com/Telmate/proxmox-api-go) - Consume the proxmox API in golang
 - [panoptes-stream](https://github.com/yahoo/panoptes-stream) - A cloud native distributed streaming network telemetry.
 - [pipeline-gnmi](https://github.com/cisco-ie/pipeline-gnmi) - A Model-Driven Telemetry collector based on the open-source tool pipeline
 - [ratchet](https://github.com/dailyburn/ratchet) - A library for performing data pipeline / ETL tasks in Go.
