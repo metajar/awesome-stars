@@ -51,6 +51,7 @@
 - [weaver](https://github.com/grantseltzer/weaver) - Trace Go program execution with uprobes and eBPF
 - [dagger](https://github.com/autom8ter/dagger) - dagger is a fast, concurrency safe, mutable, in-memory directed graph library with zero dependencies
 - [hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access.
+- [statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [feedback](https://github.com/metajar/feedback) - 
 - [snmpbot](https://github.com/qmsk/snmpbot) - Golang SNMP library + SNMP REST API
@@ -107,7 +108,6 @@
 ## JavaScript 
 
 - [auto-remediate](https://github.com/cloudconformity/auto-remediate) - Cloud Conformity Auto Remediate
-- [statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [inet-henge](https://github.com/codeout/inet-henge) - Generate d3.js based Network Diagram from JSON data.
