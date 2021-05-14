@@ -81,7 +81,7 @@
 - [bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
 - [ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [gosnmp](https://github.com/gosnmp/gosnmp) - An SNMP library written in GoLang.
+- [gosnmp](https://github.com/gosnmp/gosnmp) - An SNMP library written in Go
 - [go-dynamock](https://github.com/gusaul/go-dynamock) - Amazon Dynamo DB Mock Driver for Golang to Test Database Interactions
 - [influxsnmp](https://github.com/paulstuart/influxsnmp) - Poll snmp devices and save data in InfluxDB
 - [httptreemux](https://github.com/dimfeld/httptreemux) - High-speed, flexible tree-based HTTP router for Go.
